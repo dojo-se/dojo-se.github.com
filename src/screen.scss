@@ -13,6 +13,9 @@
 
 body {
   @include blueprint-typography(true);
+}
+
+#container {
   @include container;
 }
 
@@ -26,9 +29,14 @@ header {
 
 #main {
   @include column(18, true);
-  min-height: 400px;
+  min-height: 450px;
 }
 
 aside {
   @include column(6, true);
+}
+
+footer {
+  @include column($blueprint-grid-columns, true);
+  text-align: center;
 }
