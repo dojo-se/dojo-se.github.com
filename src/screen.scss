@@ -23,3 +23,12 @@ header {
     font-size: 50px;
   }
 }
+
+#main {
+  @include column(18, true);
+  min-height: 400px;
+}
+
+aside {
+  @include column(6, true);
+}
