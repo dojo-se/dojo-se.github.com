@@ -13,6 +13,7 @@
 
 body {
   @include blueprint-typography(true);
+  font-size: 14px;
 }
 
 #container {
@@ -22,17 +23,57 @@ body {
 header {
   @include last;
 
+  a, a:visited {
+    text-decoration: none;
+    color: $font-color;
+  }
+
+  a:hover {
+    color: $link-color;
+  }
+
   h1 {
     font-size: 50px;
+    margin-bottom: 0;
+  }
+
+  nav {
+    @include horizontal-list;
+
+    ul {
+      padding: 0;
+
+      li {
+        border-left: 1px solid #000;
+        border-top: 1px solid #000;
+        border-right: 1px solid #000;
+
+        a {
+          padding: 5px;
+        }
+      }
+
+      li:hover {
+        background: $link-color + #eee;
+      }
+    }
+  }
+
+  hr {
+    margin-top: 0;
   }
 }
 
 #main {
-  @include column(18, true);
+  @include column(17, true);
   min-height: 450px;
+  p {
+    text-align: justify;
+  }
 }
 
 aside {
+  @include prepend(1);
   @include column(6, true);
 }
 
