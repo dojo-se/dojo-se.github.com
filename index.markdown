@@ -1,6 +1,6 @@
 ---
 layout: master
-title: Sobre
+title: Home
 keywords: dojo, coding, open source, programming, software, languages, tdd, dbb, test, tests, baby steps, refactory, best praticies
 description: Site Dojo-SE, um grupo com o intuíto de evoluir as habilidades de programação de seus membros usando boas práticas de desenvolvimento de software
 ---
