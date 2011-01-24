@@ -18,4 +18,4 @@ de Dojo. As reuniões geralmente são quizenas. Para saber mais informações so
 
 [http://groups.google.com/group/forkinsergipe]: http://groups.google.com/group/forkinsergipe
 
-[https://www.google.com/calendar/embed?src=l65kkka6h4jqvdv6orvbdr4274@group.calendar.google.com&ctz=America/Maceio&gsessionid=OK] : https://www.google.com/calendar/embed?src=l65kkka6h4jqvdv6orvbdr4274@group.calendar.google.com&ctz=America/Maceio&gsessionid=OK
+[https://www.google.com/calendar/embed?src=l65kkka6h4jqvdv6orvbdr4274@group.calendar.google.com&ctz=America/Maceio&gsessionid=OK]: https://www.google.com/calendar/embed?src=l65kkka6h4jqvdv6orvbdr4274@group.calendar.google.com&ctz=America/Maceio&gsessionid=OK
