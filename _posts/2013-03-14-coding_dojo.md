@@ -19,7 +19,7 @@ A aplicação está tratando corretamente apenas as sequências horizontais, em 
 
 ## Links úteis
 
-[Evento no Google+](https://plus.google.com/events/c69kvlmh7dhrlvdnqdhnom4po0g?authkey=CNX47bjI76S4Wg)
+[Evento no Google+ (com fotos!)](https://plus.google.com/events/c69kvlmh7dhrlvdnqdhnom4po0g?authkey=CNX47bjI76S4Wg)
 
 [Evento no Facebook](https://www.facebook.com/events/516311948407925/)
 
