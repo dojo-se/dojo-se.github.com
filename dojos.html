@@ -4,8 +4,7 @@ heading	  : Dojos
 permalink : /dojos/index.html
 ---
 <h2>Dojos</h2>
-<p>There are currently {{ site.posts.size }} dojos on the site.</p>
-<h3>By year</h3>
+<p>Já foram realizados {{ site.posts.size }} dojos.</p>
 <ul>{% for post in site.posts %}
   <li><h3><a href="{{ post.url }}">{{ post.date | date: "%Y" }}</a> <small>({{ post.date | date: "%b %d"}})</small></h3></li>{% endfor %}
 </ul>
