@@ -1,0 +1,19 @@
+---
+layout : default
+heading: 
+---
+<article>
+  {% for post in site.posts limit: 1 %}
+  <figure class="portrait">
+    <img src="/images/{{ post.date | date: "%F" }}-{{ post.title | downcase }}.jpg">
+    <figcaption>
+      <hgroup>
+        <h1>{{ post.person  }}</h1>
+        <h2>{{ post.summary }}</h2>
+      </hgroup>
+      <p class="datetime">Posted <time datetime="{{ post.date | date: "%F" }}">{{ post.date | date_to_long_string }}</time></p>
+    </figcaption>
+  </figure>
+  {{ post.content }}
+  {% endfor %}
+</article>

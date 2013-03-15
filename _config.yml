@@ -1,1 +1,24 @@
-exclude: src, config.rb, grid.png
+﻿## Global settings
+markdown  : redcarpet
+permalink : /dojos/:year
+exclude   : README.md
+
+## Local settings
+title : Coding Dojo / Sergipe
+nav   :
+  -
+    name: Home
+    desc: The most recent dojos.
+    href: /
+  -
+    name: Dojos
+    desc: All the other dojos.
+    href: /dojos/
+  -
+    name: About
+    desc: A little more info about coding dojos.
+    href: //usesthis.com/about/
+  -
+    name: Community
+    desc: Our mailing list.
+    href: //groups.google.com/forum/?fromgroups#!forum/dojo-se

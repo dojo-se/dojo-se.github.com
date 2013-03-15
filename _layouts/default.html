@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ site.title }}</title>
+    <link href="/stylesheets/screen.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,700' rel='stylesheet'>
+    
+  </head>
+  <body>
+    <div class="wrap">
+      <header role="banner">
+        <h1>{{ site.title }} / <span>{% if page.heading %}{{ page.heading }}{% else %}{{ page.date | date: "%Y" }}{% endif %}</span></h1>
+        <p class="tagline">What developers do to train their main skill: <em>get stuff done</em>?</p>
+      </header>
+      <nav role="navigation">
+        <ul>{% capture href %}{{ page.url | remove: "index.html" }}{% endcapture %}{% for item in site.nav %}
+          {% if href == item.href %}<li class="selected">{% else %}<li>{% endif %}<a href="{{ item.href }}" title="{{ item.desc }}">{{ item.name }}</a></li>{% endfor %}
+        </ul>
+      </nav>
+      <div role="main">{{ content }}</div>
+      <footer role="contentinfo">
+        <p>This is a forked web-site</a> of <a href="http://usesthis.com">The Setup</a>. You can show original source code from <a href="https://github.com/nzwsch/usesthis">GitHub</a>.</p>
+        <p>Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/2.5/au/" title="A Creative Commons license.">Attribution-Share Alike</a> license.</p>
+      </footer>
+    </div>
+  </body>
+</html>
