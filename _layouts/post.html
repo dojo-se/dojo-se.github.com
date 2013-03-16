@@ -6,7 +6,7 @@ layout : default
     {% if page.date %}
     <img src="/images/{{ page.date | date: "%F" }}-{{ page.title | downcase }}.jpg">
     {% else %}
-    <img src="/images/404.jpg">
+    <img src="/images/404.jpg" width="650">
     {% endif %}
     <figcaption>
       <hgroup>
@@ -14,7 +14,7 @@ layout : default
         <h2>{{ page.summary }}</h2>
       </hgroup>
       {% if page.date %}
-      <p class="datetime">Posted <time datetime="{{ page.date | date: "%F" }}">{{ page.date | date_to_long_string }}</time></p>
+      <p class="datetime">Publicado em <time datetime="{{ page.date | date: "%F" }}">{{ page.date | date_to_long_string }}</time></p>
       {% else %}
       {% endif %}
     </figcaption>

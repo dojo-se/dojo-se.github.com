@@ -8,17 +8,25 @@ title : Coding Dojo / Sergipe
 nav   :
   -
     name: Home
-    desc: The most recent dojos.
+    desc: O coding dojo mais recente.
     href: /
   -
     name: Dojos
-    desc: All the other dojos.
+    desc: Todos os dojos arquivados.
     href: /dojos/
   -
-    name: About
-    desc: A little more info about coding dojos.
-    href: //usesthis.com/about/
+    name: GitHub
+    desc: Nossos reposit&oacute;rios no GitHub.
+    href: //github.com/dojo-se
   -
-    name: Community
-    desc: Our mailing list.
+    name: Google+
+    desc: Nossa comunidade no Google+.
+    href: //plus.google.com/communities/116253893143706369305
+  -
+    name: Facebook
+    desc: Nossa p&aacute;gina no Facebook.
+    href: //facebook.com/dojosergipe
+  -
+    name: Comunidade
+    desc: Nossa lista de discuss&atilde;o por email
     href: //groups.google.com/forum/?fromgroups#!forum/dojo-se

@@ -5,13 +5,13 @@ heading:
 <article>
   {% for post in site.posts limit: 1 %}
   <figure class="portrait">
-    <img src="/images/{{ post.date | date: "%F" }}-{{ post.title | downcase }}.jpg">
+    <img src="/images/{{ post.date | date: "%F" }}-{{ post.title | downcase }}.jpg" width="650px">
     <figcaption>
       <hgroup>
         <h1>{{ post.person  }}</h1>
         <h2>{{ post.summary }}</h2>
       </hgroup>
-      <p class="datetime">Posted <time datetime="{{ post.date | date: "%F" }}">{{ post.date | date_to_long_string }}</time></p>
+      <p class="datetime">Publicado em <time datetime="{{ post.date | date: "%F" }}">{{ post.date | date_to_long_string }}</time></p>
     </figcaption>
   </figure>
   {{ post.content }}
