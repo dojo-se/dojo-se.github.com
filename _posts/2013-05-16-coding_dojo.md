@@ -3,6 +3,7 @@ layout  : post
 person  : Dojo 16/05/2013
 summary : YES WE HAVE NESCAU!
 ---
+
 Sensei: Roberto Brandini
 
 ## Qual foi o problema proposto?
@@ -10,7 +11,9 @@ Sensei: Roberto Brandini
 [Escrevendo no Celular](http://dojopuzzles.com/problemas/exibe/escrevendo-no-celular/)
 
 Resumo do problema:  Desenvolva um programa que, dada uma mensagem de texto limitada a 255 caracteres, retorne a sequência de números que precisa ser digitada para escrevê-la em um celular com teclado numérico. Uma pausa, para ser possível obter duas letras referenciadas pelo mesmo número, deve ser indicada como \_.
+
 Linguagem escolhida: Python
+
 Especialista: Matheus Lima
 
 ## Qual a situação da solução no final do dojo?
