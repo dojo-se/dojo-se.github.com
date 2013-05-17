@@ -4,8 +4,6 @@ person  : Dojo 16/05/2013
 summary : YES WE HAVE NESCAU!
 ---
 
-Sensei: Roberto Brandini
-
 ## Qual foi o problema proposto?
 
 [Escrevendo no Celular](http://dojopuzzles.com/problemas/exibe/escrevendo-no-celular/)
@@ -15,6 +13,8 @@ Resumo do problema:  Desenvolva um programa que, dada uma mensagem de texto limi
 Linguagem escolhida: Python
 
 Especialista: Matheus Lima
+
+Sensei: Roberto Brandini
 
 ## Qual a situação da solução no final do dojo?
 

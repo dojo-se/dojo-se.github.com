@@ -4,8 +4,6 @@ person  : Dojo 14/03/2013
 summary : The Dojo Strikes Back!
 ---
 
-Sensei: Rodrigo Amaral
-
 ## Qual foi o problema proposto?
 
 [Sequência de Cinco](http://dojopuzzles.com/problemas/exibe/sequencia-de-cinco/)
@@ -14,7 +12,7 @@ Resumo do problema: dado uma matriz de números inteiros positivos de dimensões
 
 Linguagem escolhida: Python
 
-Especialista: Rodrigo Amaral
+Sensei e Especialista: Rodrigo Amaral
 
 ## Qual a situação da solução no final do dojo?
 
