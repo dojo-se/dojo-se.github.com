@@ -1,7 +1,7 @@
 ---
 layout  : post
 person  : Dojo 16/05/2013
-summary : Cada vez melhor!
+summary : YES WE HAVE NESCAU!
 ---
 ## Qual foi o problema proposto?
 

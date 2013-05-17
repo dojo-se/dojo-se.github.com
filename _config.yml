@@ -1,6 +1,6 @@
 ﻿## Global settings
 markdown  : redcarpet
-permalink : /dojos/:year
+permalink : /dojos/:year:month:day
 exclude   : README.md
 
 ## Local settings
