@@ -1,6 +1,6 @@
 ---
 layout  : post
-person  : Dojo 18/06/2013
+person  : Dojo 06/08/2013
 summary : Voltando das férias!
 ---
 
