@@ -1,0 +1,421 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"user_key"
+			],
+			[
+				"ver",
+				"VerificationHandler"
+			],
+			[
+				"ga",
+				"gallery"
+			],
+			[
+				"upl",
+				"upload_url"
+			],
+			[
+				"gall",
+				"gallery"
+			],
+			[
+				"gal",
+				"NewGalleryHandler"
+			],
+			[
+				"blo",
+				"blob_info"
+			],
+			[
+				"encr",
+				"encryptedPassword"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"random",
+				"randomword"
+			],
+			[
+				"acc",
+				"accept-charset	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 37,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_posts/2014-03-05-coding_dojo.md",
+			"settings":
+			{
+				"buffer_size": 519,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nSublimeGit:\n----------\n\n  Welcome to SublimeGit\n  =====================\n  \n  SublimeGit is a full-featured, commercial plugin for integrating\n  git into Sublime Text 2 and 3. To read more about it, or purchase\n  a license, go to https://sublimegit.net.\n  \n  \n  Quickstart\n  ----------\n  Make sure to restart Sublime Text after installing SublimeGit.\n  \n  Run the command \"Git: Status\" to open the status view. This\n  is where you'll spend most of the time when interacting with\n  git through SublimeGit. From here you can stage/unstage files,\n  manage stashes, view diffs, and initiate a commit.\n  \n  Other commands are available in the command palette (cmd+shift+p\n  on OS X, ctrl+shift+p on Windows/Linux). They are all prefixed\n  with \"Git:\" and most of them do exactly what it says on the label.\n  \n  \n  Tutorial\n  --------\n  For the full tutorial, go to:\n  \n      https://docs.sublimegit.net/tutorial.html\n  \n  \n  Trouble Getting Started?\n  ------------------------\n  If you are on windows, or don't usually use git from the command\n  line, there might be some things you'll need to set up. Go here\n  for instructions on how to get set up:\n  \n      https://docs.sublimegit.net/quickstart.html\n  \n  \n  Issues, Questions or Bugs?\n  --------------------------\n  Send a mail to support@sublimegit.net, or report it in the issue\n  tracker:\n  \n      https://github.com/SublimeGit/SublimeGit/issues\n  \n",
+			"settings":
+			{
+				"buffer_size": 1451,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"hell",
+				"Snippet: hello"
+			],
+			[
+				"snip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"git",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"compa",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"gu",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"intsll",
+				"Package Control: Install Package"
+			],
+			[
+				"print",
+				"Package Control: Install Package"
+			],
+			[
+				"projec",
+				"Project: Save As"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Dev/coding dojo/dojo-se.github.com/images/2013-10-24-coding_dojo.jpg",
+		"/E/Dev/coding dojo/dojo-se.github.com/project.sublime-project",
+		"/E/Dev/coding dojo/dojo-se.github.com/_config.yml",
+		"/E/Dev/coding dojo/dojo-se.github.com/README.md",
+		"/E/Dev/coding dojo/dojo-se.github.com/index.html",
+		"/E/Dev/coding dojo/dojo-se.github.com/dojos.html",
+		"/E/Dev/coding dojo/dojo-se.github.com/404.md",
+		"/E/Dev/google app engine/samples/shell/app.yaml.shell-27",
+		"/E/Dev/google app engine/samples/shell/app.yaml.shell",
+		"/E/Dev/google app engine/samples/shell/app.yaml.shell-hrd",
+		"/E/Dev/google app engine/samples/calendarer/app.yaml",
+		"/E/Dev/google app engine/escolha-suas-fotos/verificationhandler.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/basehandler.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/newuser.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/newgallery.html",
+		"/E/Dev/google app engine/escolha-suas-fotos/app.yaml",
+		"/E/Dev/google app engine/escolha-suas-fotos/signup.html",
+		"/E/Dev/google app engine/escolha-suas-fotos/entities.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/main.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/newgallery.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/message.html",
+		"/E/Dev/google app engine/escolha-suas-fotos-fix-01.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/gallery.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/gallery.html",
+		"/E/Dev/google app engine/escolha-suas-fotos/message.py",
+		"/E/Dev/google app engine/gdg/webmarket/main.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/escolha-suas-fotos.sublime-project",
+		"/C/Users/Erick/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Erick/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/Dev/google app engine/escolha-suas-fotos/README.md",
+		"/E/Dev/google app engine/escolha-suas-fotos/css/bootstrap-theme.css",
+		"/E/Dev/google app engine/escolha-suas-fotos/css/bootstrap-theme.css.map",
+		"/E/Dev/google app engine/escolha-suas-fotos/css/bootstrap-theme.min.css",
+		"/E/Dev/google app engine/escolha-suas-fotos/css/bootstrap.css",
+		"/E/Dev/google app engine/escolha-suas-fotos/css/bootstrap.css.map",
+		"/E/Dev/google app engine/escolha-suas-fotos/css/bootstrap.min.css",
+		"/E/Dev/google app engine/escolha-suas-fotos/fonts/glyphicons-halflings-regular.svg",
+		"/E/Dev/google app engine/escolha-suas-fotos/fonts/glyphicons-halflings-regular.woff",
+		"/E/Dev/google app engine/escolha-suas-fotos/js/bootstrap.js",
+		"/E/Dev/google app engine/escolha-suas-fotos/js/bootstrap.min.js",
+		"/E/Dev/google app engine/escolha-suas-fotos/js/jquery-2.1.0.min.js",
+		"/C/Users/Erick/AppData/Roaming/Sublime Text 3/Packages/User/hello.sublime-snippet",
+		"/E/Dev/google app engine/escolha-suas-fotos/main.html",
+		"/E/Dev/google app engine/shoutout/main.py",
+		"/E/Dev/Android/Sell My Condo/webapp/samples/sample.html",
+		"/E/Dev/google app engine/escolha-suas-fotos/escolha-suas-fotos/app.yaml",
+		"/E/Dev/Android/Sell My Condo/webapp/index.html",
+		"/E/Dev/Android/Sell My Condo/webapp/sample.html",
+		"/C/Users/Erick/Downloads/variables.less"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"---",
+			"db",
+			"().",
+			".all()",
+			"ndb",
+			"/newgallery/upload",
+			"upload",
+			"passwordInput",
+			"message"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/upload"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2014-03-05-coding_dojo.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 519,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								519,
+								519
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 130.0
+	},
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
