@@ -47,3 +47,5 @@ Funcionando :-)
 [Evento no Facebook](https://www.facebook.com/events/254164024757899/)
 
 [Evento no Google+](https://plus.google.com/u/0/events/chsp5mmlclns55hu2u4u3sg7hc0)
+
+[Fotos no Flickr](http://www.flickr.com/photos/erickmendonca/sets/72157641953730615/)
