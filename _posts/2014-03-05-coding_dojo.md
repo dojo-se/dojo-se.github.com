@@ -40,6 +40,23 @@ Funcionando :-)
 
 [Tá aqui no GitHub!](https://github.com/dojo-se/indice_equilibrio)
 
+## Pós-dojo Virtual
+
+Terminamos às pressas por causa do horário e ficamos sem a finalização e pós-dojo. Então lá vai um virtual.
+
+**Positivos**
+
+- Mais uma vez não caímos no Python (adoramos a linguagem, mas estava monopolizando já!);
+- Respeitamos mais a filosofia de baby steps;
+- Finalmente um dojo neste ano!
+
+**Negativos**
+
+- Cadê o café?;
+- Apressado no final (justificado pelo horário);
+- Pós-dojo que nunca acontece!;
+- O ladrão não levou o monitor CRT. =/
+
 ## Links úteis
 
 [Nossa lista de discussão](https://groups.google.com/forum/?fromgroups#!forum/dojo-se)
