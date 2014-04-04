@@ -51,7 +51,7 @@ Especialista: Wagner Macedo.
 
 ## Qual a situação da solução no final do dojo?
 
-Faltam muitas regras a serem implementadas. Sinta-se à vontade para contribuir com a solução!
+[Faltam muitas regras a serem implementadas](https://github.com/dojo-se/poker/issues/1). Sinta-se à vontade para contribuir com a solução!
 
 ## E cadê o código?
 
