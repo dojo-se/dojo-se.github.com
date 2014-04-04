@@ -1,11 +1,11 @@
 ﻿## Global settings
-markdown: redcarpet2
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "tables"]
+markdown: redcarpet
 permalink : /dojos/:year:month:day
 exclude   : README.md
 
 ## Local settings
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "tables"]
 title : Coding Dojo / Sergipe
 nav   :
   -
