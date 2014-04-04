@@ -14,7 +14,7 @@ nav   :
     href: /
   -
     name: Dojos
-    desc: Todos os dojos arquivados.
+    desc: Todos os dojos.
     href: /dojos/
   -
     name: GitHub
