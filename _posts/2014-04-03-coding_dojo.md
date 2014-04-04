@@ -71,7 +71,7 @@ Finalmente tivemos um pós-dojo! Esperamos que continuemos a ter nas próximas v
 
 - Baby steps e TDD negligenciados.
 - Todos eram co-pilotos. Pitacos everywhere!
-- 
+
 ## Links úteis
 
 [Evento no Facebook](https://www.facebook.com/events/649326105103737/)
