@@ -25,6 +25,8 @@ No jogo de Poker, uma mão consiste em cinco cartas que podem ser comparadas, da
 - Straight Flush: Todas as cartas são consecutivas e do mesmo naipe.
 - Royal Flush: A seqüência 10, Valete, Dama, Rei, Ás, do mesmo naipe.
 
+![Exemplos](/images/2014-04-03-coding_dojo_2.png "Exemplos de mãos")
+
 As cartas são, em ordem crescente de valor: 2, 3, 4, 5, 6, 7, 8, 9, 10, Valete, Dama, Rei, Ás.
 
 Os naipes são: Ouro (D), Copa (H), Espadas (S), Paus (C)
