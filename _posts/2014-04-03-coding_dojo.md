@@ -56,6 +56,7 @@ Especialista: Wagner Macedo.
 ###Soluções da comunidade:
 - @robertobrandini https://github.com/dojo-se/pokerMapReduce
 - @lucasxas https://github.com/dojo-se/poker-java
+- @arquimago https://github.com/arquimago/PokerC
 
 ## E cadê o código?
 
