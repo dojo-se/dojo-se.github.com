@@ -8,6 +8,8 @@ O dojo neste mês é na segunda quinta do mês porque dia 1º foi feriado. Parti
 
 Esse post será atualizado depois do evento com mais informações.
 
+Por enquanto, fiquem com o repositório: https://github.com/dojo-se/descubra-o-assasino
+
 ## Links úteis
 
 [Evento no Facebook](https://www.facebook.com/events/696663497067465/)
