@@ -69,6 +69,10 @@ Você precisa desenvolver um programa que tente resolver o problema. Inicialment
 
 [Tava indo bem, mas ficou uma bagunça!](https://github.com/dojo-se/descubra-o-assasino). Sinta-se à vontade para contribuir com a solução!
 
+Quer mexer no código? É bem fácil, só clicar no botão Hack abaixo!
+
+[![Hack dojo-se/descubra-o-assasino on Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-l-v1-3cc067e71372f6045e1949af9d96095b.png)](https://www.nitrous.io/hack_button?source=embed&runtime=django&repo=dojo-se%2Fdescubra-o-assasino&file_to_open=README.md)
+
 PS: Usamos a [Raspberry Pi WebIDE da Adafruit](https://learn.adafruit.com/webide/overview) e esquecemos de mudar o comportamento do repositório. Resultado: trocentos commits!
 
 ###Retrospectiva
