@@ -12,7 +12,8 @@ Resumo do problema:
 
 O empresário Bill G. Ates foi assassinado e o corpo dele foi deixado na frente da delegacia de polícia. O detetive Lin Ust Orvalds foi escolhido para investigar este caso. Após uma série de investigações, ele organizou uma lista com prováveis assassinos, os locais do crime e quais armas poderiam ter sido utilizadas.
 
-Suspeitos:
+**Suspeitos:**
+
  - Charles B. Abbage
  - Donald Duck Knuth
  - Ada L. Ovelace
@@ -20,7 +21,8 @@ Suspeitos:
  - Ivar J. Acobson
  - Ras Mus Ler Dorf
 
-Locais:
+**Locais:**
+
  - Redmond
  - Palo Alto
  - San Francisco
@@ -32,7 +34,8 @@ Locais:
  - Maida Vale
  - Toronto
 
-Armas:
+**Armas:**
+
  - Peixeira
  - DynaTAC 8000X (o primeiro aparelho celular do mundo)
  - Trezoitão
@@ -69,13 +72,16 @@ Você precisa desenvolver um programa que tente resolver o problema. Inicialment
 PS: Usamos a [Raspberry Pi WebIDE da Adafruit](https://learn.adafruit.com/webide/overview) e esquecemos de mudar o comportamento do repositório. Resultado: trocentos commits!
 
 ###Retrospectiva
+
 ##Prós
+
  - Usamos o Raspberry Pi e foi show de bola!
  - A presença da galera foi bacana.
  - A data marcada sem enrolação.
  - Ambiente descontraído! Antes de começar rolou um bom papo com experiências de desenvolvimento (ou não) relevantes.
 
 ##Contras
+
  - Demorou para começar, muito chat!
  - Dificuldade para encontrar problemas diversos.
  - Perdido no TDD/Baby steps: a aleatoriedade do problema confundiu!
@@ -86,8 +92,6 @@ PS: Usamos a [Raspberry Pi WebIDE da Adafruit](https://learn.adafruit.com/webide
 
 ## Links úteis
 
-[Evento no Facebook](https://www.facebook.com/events/696663497067465/)
-
-[Evento no Google+](https://plus.google.com/u/0/b/117712497785310292400/events/cq16hdnstsblmtikqdverjf8je0?authkey=CLWdgpmut_aWZQ)
-
-[Fotos no Flickr](http://www.flickr.com/photos/erickmendonca/sets/72157641953730615/)
+ - [Evento no Facebook](https://www.facebook.com/events/696663497067465/)
+ - [Evento no Google+](https://plus.google.com/u/0/b/117712497785310292400/events/cq16hdnstsblmtikqdverjf8je0?authkey=CLWdgpmut_aWZQ)
+ - [Fotos no Flickr](http://www.flickr.com/photos/erickmendonca/sets/72157641953730615/)
