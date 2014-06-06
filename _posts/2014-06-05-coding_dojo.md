@@ -4,7 +4,7 @@ person  : Dojo 05/06/2014
 summary : Arduino Dojo
 ---
 
-Em parceria com o GDG Aracaju, convidamos a comunidade sergipana de desenvolvedores profissionais e amadores para afiar suas técnicas de programação em mais uma sessão de Coding Dojo. Lembrem-se: o evento é gratuito e aberto a todos!
+Em parceria com o [GDG Aracaju](http://gdgaracaju.com.br/), convidamos a comunidade sergipana de desenvolvedores profissionais e amadores para afiar suas técnicas de programação em mais uma sessão de Coding Dojo.
 
 ## Coding Dojo Arduino
 
@@ -12,18 +12,18 @@ Este mês, tivemos um diferencial: programamos em Arduinos! Nossos projetos usar
 
 ## Qual foi o problema proposto?
 
-Resumo dos problemas:
+Dividimos a platéia em duas equipes e implementamos dois problemas usando Arduino e acessórios.
 
-Dividimos a platéia em duas equipes e implementamos dois problemas usando Arduino e acessórios:
+Resumo dos problemas:
 
 - Ler corretamente a entrada de um teclado matricial 4x4, suportando mais de uma tecla simultaneamente.
 - Implementar um semáforo que acenda corretamente os LEDs vermelho, amarelo e verde, com um botão para pedestres.
 
 ##Qual a situação da solução no final do dojo?
 
-[Tudo certo!](https://github.com/dojo-se/arduino-uno). Foi uma bagunça com todo mundo animado, mas conseguimos!
+[Tudo certo!](https://github.com/dojo-se/arduino-uno) Foi uma bagunça com todo mundo animado, mas conseguimos!
 
-Quer mexer no código? É bem fácil, só clicar no botão **Fork** e brincar!
+Quer mexer no código? É bem fácil, só clicar em [Fork](https://github.com/dojo-se/arduino-uno/fork) e brincar!
 
 ###Retrospectiva
 
