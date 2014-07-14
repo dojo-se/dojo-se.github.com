@@ -12,8 +12,7 @@
 	<div class="wrap">
       <header role="banner">
         <h1>{{ site.title }} / <span>{% if page.heading %}{{ page.heading }}{% else %}{{ page.date | date: "%Y" }}{% endif %}</span></h1>
-        <p class="tagline">Grupo de treinamento para programadores.</p>
-        <p class="tagline">Parceiro do <a href='http://gdgaracaju.com.br'>GDG Aracaju</a></p>
+        <p class="tagline">Grupo de treinamento para programadores. Parceiro do <a href='http://gdgaracaju.com.br'>GDG Aracaju</a></p>
       </header>
       <nav role="navigation">
         <ul>{% capture href %}{{ page.url | remove: "index.html" }}{% endcapture %}{% for item in site.nav %}
