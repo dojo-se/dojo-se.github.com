@@ -8,7 +8,7 @@ summary : Ruby!
 
 [Sudoku](http://dojopuzzles.com/problemas/exibe/sudoku/)
 
-Resumo dos problemas:
+**Resumo do problema:**
 
 [Sudoku é um quebra-cabeça criado por Howard Garns](http://pt.wikipedia.org/wiki/Sudoku), um arquiteto aposentado e construtor independente de quebra-cabeças.
 
@@ -53,3 +53,5 @@ Quer mexer no código? É bem fácil, só clicar em [Fork](https://github.com/do
 [Evento no Facebook](https://www.facebook.com/events/1474480039464805/)
 
 [Fotos no Google+](https://plus.google.com/photos/+ErickMendon%C3%A7a/albums/6031971989453717953)
+
+[Participe da comunidade GDG Aracaju](http://gdgaracaju.com.br/)
