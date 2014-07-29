@@ -12,7 +12,7 @@ summary : GDG Dojo Mobile
 
 ## Não sabe o que é um Coding Dojo?
 
-É uma reunião de desenvolvedores para trocar ideias e resolver, juntos, um problema. Não precisa ser expert nem manjar de todos os paranauês, baste ter interesse!
+É uma reunião de desenvolvedores para trocar ideias e resolver, juntos, um problema. Não precisa ser expert nem manjar de todos os paranauês, basta ter interesse!
 
 ## Links úteis
 
