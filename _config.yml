@@ -1,7 +1,7 @@
 ﻿## Global settings
 markdown: redcarpet
 permalink : /dojos/:year:month:day
-exclude   : README.md
+exclude   : ['README.md']
 
 ## Local settings
 redcarpet:
