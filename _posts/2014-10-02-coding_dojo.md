@@ -8,7 +8,7 @@ summary : GDG Dojo Android!
 
 Convidamos todos desenvolvedores a afiar suas técnicas de desenvolvimento mobile em um Coding Dojo!
 
-Neste mês de agosto teremos mais um coding dojo temático: mobile!  Que tal solucionar um problema em um formato de app Android?
+Neste mês de outubro teremos mais um coding dojo temático: mobile!  Que tal solucionar um problema em um formato de app Android?
 
 ## Não sabe o que é um Coding Dojo?
 
