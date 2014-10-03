@@ -10,6 +10,8 @@ Convidamos todos desenvolvedores a afiar suas técnicas de desenvolvimento mobil
 
 Neste mês de outubro teremos mais um coding dojo temático: mobile!  Que tal solucionar um problema em um formato de app Android?
 
+![Androideando](/images/2014-10-02-coding_dojo_2.jpg "Android")
+
 ## Não sabe o que é um Coding Dojo?
 
 É uma reunião de desenvolvedores para trocar ideias e resolver, juntos, um problema. Não precisa ser expert nem manjar de todos os paranauês, basta ter interesse!
