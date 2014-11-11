@@ -4,6 +4,74 @@
 		"selected_items":
 		[
 			[
+				"adj",
+				"adjacentes"
+			],
+			[
+				"pro",
+				"profundidade_entrada"
+			],
+			[
+				"to",
+				"total_acordos"
+			],
+			[
+				"tot",
+				"total_acordos"
+			],
+			[
+				"con",
+				"consulta"
+			],
+			[
+				"total",
+				"total_cidades"
+			],
+			[
+				"tota",
+				"total_cidades"
+			],
+			[
+				"_",
+				"_input"
+			],
+			[
+				"cardap",
+				"cardapio_index"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"tam",
+				"tam_processados"
+			],
+			[
+				"outr",
+				"outra_bota"
+			],
+			[
+				"OUT",
+				"outra_bota"
+			],
+			[
+				"ra",
+				"raw_input"
+			],
+			[
+				"n",
+				"newuser"
+			],
+			[
+				"newga",
+				"newgallery"
+			],
+			[
+				"lo",
+				"logging"
+			],
+			[
 				"user",
 				"user_key"
 			],
@@ -52,52 +120,46 @@
 	"buffers":
 	[
 		{
-			"file": ".gitignore",
+			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 37,
+				"buffer_size": 876,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "_posts/2014-03-05-coding_dojo.md",
+			"file": "_posts/2014-09-04-coding_dojo.md",
 			"settings":
 			{
-				"buffer_size": 519,
+				"buffer_size": 1711,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "Package Control Messages\n========================\n\nSublimeGit:\n----------\n\n  Welcome to SublimeGit\n  =====================\n  \n  SublimeGit is a full-featured, commercial plugin for integrating\n  git into Sublime Text 2 and 3. To read more about it, or purchase\n  a license, go to https://sublimegit.net.\n  \n  \n  Quickstart\n  ----------\n  Make sure to restart Sublime Text after installing SublimeGit.\n  \n  Run the command \"Git: Status\" to open the status view. This\n  is where you'll spend most of the time when interacting with\n  git through SublimeGit. From here you can stage/unstage files,\n  manage stashes, view diffs, and initiate a commit.\n  \n  Other commands are available in the command palette (cmd+shift+p\n  on OS X, ctrl+shift+p on Windows/Linux). They are all prefixed\n  with \"Git:\" and most of them do exactly what it says on the label.\n  \n  \n  Tutorial\n  --------\n  For the full tutorial, go to:\n  \n      https://docs.sublimegit.net/tutorial.html\n  \n  \n  Trouble Getting Started?\n  ------------------------\n  If you are on windows, or don't usually use git from the command\n  line, there might be some things you'll need to set up. Go here\n  for instructions on how to get set up:\n  \n      https://docs.sublimegit.net/quickstart.html\n  \n  \n  Issues, Questions or Bugs?\n  --------------------------\n  Send a mail to support@sublimegit.net, or report it in the issue\n  tracker:\n  \n      https://github.com/SublimeGit/SublimeGit/issues\n  \n",
-			"settings":
-			{
-				"buffer_size": 1451,
-				"line_ending": "Windows",
-				"name": "Package Control Messages",
-				"scratch": true
 			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 380.0,
+		"height": 490.0,
 		"selected_items":
 		[
 			[
-				"packa",
-				"Package Control: Remove Package"
-			],
-			[
-				"git push",
-				"Git: Push"
-			],
-			[
-				"ins",
+				"inst",
 				"Package Control: Install Package"
 			],
 			[
 				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"ins",
 				"Package Control: Install Package"
 			],
 			[
@@ -133,7 +195,7 @@
 				"Project: Save As"
 			]
 		],
-		"width": 512.0
+		"width": 703.0
 	},
 	"console":
 	{
@@ -153,34 +215,98 @@
 	},
 	"file_history":
 	[
-		"/E/Dev/coding dojo/dojo-se.github.com/images/2013-10-24-coding_dojo.jpg",
-		"/E/Dev/coding dojo/dojo-se.github.com/project.sublime-project",
+		"/E/Dev/google app engine/devfestne/main.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/app.yaml",
+		"/E/Dev/google app engine/devfestne/app.yaml",
+		"/E/Dev/polymer-tutorial-master/starter/main.css",
+		"/E/Dev/polymer-tutorial-master/devfest-service/devfest-service.html",
+		"/E/Dev/polymer-tutorial-master/api/gdgs.json",
+		"/E/Dev/polymer-tutorial-master/api/devfests.json",
+		"/E/Dev/polymer-tutorial-master/starter/index.html",
+		"/E/Dev/polymer-tutorial-master/post-service/post-service.html",
+		"/E/Dev/GitHub/devfest-2014/_posts/2014-08-18-call-for-papers.markdown",
+		"/E/Dev/GitHub/devfest-2014/_posts/2014-08-18-hello-world.markdown",
+		"/E/Dropbox/Estudo/Grafos/war.py",
+		"/E/Dropbox/GDG/gdg",
+		"/E/Dropbox/Estudo/Grafos/manut.py",
+		"/E/Dropbox/Estudo/Grafos/paisesemguerra1148.cpp",
+		"/E/Dev/google app engine/devfestne/index.html",
+		"/E/Dev/google app engine/devfestne/index.yaml",
+		"/C/Users/Erick/Downloads/Source.cpp",
+		"/E/Dev/GitHub/intro/index.html",
+		"/C/Users/Erick/_netrc",
+		"/C/Program Files (x86)/Google/google_appengine/appcfg.py",
+		"/C/Program Files (x86)/Microsoft Visual Studio 11.0/Common7/IDE/WDExpress.exe.config",
+		"/E/Dev/coding dojo/dojo-se.github.com/_posts/2014-06-05-coding_dojo.md",
+		"/C/Users/Erick/Nitrous/django-box/gdg-django-lab/.env",
+		"/C/Users/Erick/Nitrous/django-box/gdg-django-lab/gdg_pizza/urls.py",
+		"/C/Users/Erick/Nitrous/django-box/gdg-django-lab/gdg_pizza/gdg_pizza/settings.py",
+		"/C/Users/Erick/Nitrous/django-box/gdg-django-lab/gdg_pizza/requirements.txt",
+		"/C/Users/Erick/Nitrous/django-box/gdg-django-lab/gdg_pizza/Procfile",
+		"/C/Users/Erick/Nitrous/django-box/gdg-django-lab/gdg_pizza/gdg_pizza/wsgi.py",
+		"/C/Users/Erick/Nitrous/django-box/gdg-django-lab/gdg_pizza/cardapio/views.py",
+		"/C/Users/Erick/Nitrous/django-box/gdg-django-lab/gdg_pizza/cardapio/urls.py",
+		"/C/Users/Erick/Nitrous/django-box/gdg-django-lab/gdg_pizza/cardapio/templates/cardapio/add.html",
+		"/C/Users/Erick/Nitrous/django-box/www/gdg-django-slides/slides/08-aprimoramentos.md",
+		"/C/Users/Erick/Nitrous/django-box/gdg-django-lab/gdg_pizza/cardapio/models.py",
+		"/C/Users/Erick/Nitrous/django-box/gdg-django-lab/gdg_pizza/cardapio/templates/cardapio/base.html",
+		"/C/Users/Erick/Nitrous/django-box/gdg-django-lab/gdg_pizza/cardapio/templates/cardapio/index.html",
+		"/C/Users/Erick/Nitrous/django-box/gdg-django-lab/gdg_pizza/cardapio/templates/cardapio/detail.html",
+		"/C/Users/Erick/Nitrous/django-box/gdg-django-lab/gdg_pizza/gdg_pizza/urls.py",
+		"/C/Users/Erick/Nitrous/django-box/www/gdg-django-slides/slides/07-projeto_simples.md",
+		"/C/Users/Erick/Nitrous/django-box/www/gdg-django-slides/slides/06-hello_world.md",
+		"/E/Dev/django-multi-gtfs/examples/explore/exploreproj/settings.py",
+		"/E/Dev/Django/transit-planner/transit_planner/settings.py",
+		"/C/Program Files/PostgreSQL/9.3/data/pg_hba.conf",
+		"/C/Python27/Lib/mimetypes.py",
+		"/E/Alfresco/tomcat/shared/classes/alfresco/extension/example-model-context.xml.sample",
+		"/E/Alfresco/tomcat/shared/classes/alfresco/extension/exampleModel.xml.sample",
 		"/E/Dev/coding dojo/dojo-se.github.com/_config.yml",
-		"/E/Dev/coding dojo/dojo-se.github.com/README.md",
-		"/E/Dev/coding dojo/dojo-se.github.com/index.html",
-		"/E/Dev/coding dojo/dojo-se.github.com/dojos.html",
-		"/E/Dev/coding dojo/dojo-se.github.com/404.md",
+		"/E/Dev/google app engine/escolha-suas-fotos/old_handlers.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/handlers/upload.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/main.py",
+		"/E/Dev/Django/startproject/mysite/mysite/settings.py",
+		"/E/Dev/Django/startproject/mysite/manage.py",
+		"/E/Dev/Django/startproject/mysite/polls/models.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/entities.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/handlers.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/verificationhandler.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/newgallery.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/home.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/message.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/gallery.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/basehandler.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/newuser.py",
+		"/E/Dev/google app engine/webapp2-user-accounts-master/main.py",
+		"/E/Dev/google app engine/escolha-suas-fotos/views/message.html",
+		"/E/Dev/google app engine/escolha-suas-fotos/views/login.html",
+		"/C/Users/Erick/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Erick/AppData/Roaming/Sublime Text 3/Installed Packages/Git.sublime-package",
+		"/C/Users/Erick/AppData/Roaming/Sublime Text 3/Installed Packages/SublimeGit.sublime-package",
+		"/E/Dev/google app engine/escolha-suas-fotos/.gitignore",
+		"/E/Dev/google app engine/webapp2-user-accounts-master/index.yaml",
+		"/E/Dev/google app engine/escolha-suas-fotos/views/main.html",
+		"/E/Dev/google app engine/escolha-suas-fotos/message.html",
+		"/E/Dev/google app engine/webapp2-user-accounts-master/views/main.html",
+		"/E/Dev/google app engine/webapp2-user-accounts-master/app.yaml",
+		"/E/Dev/google app engine/escolha-suas-fotos/views/newuser.html",
+		"/E/Dev/google app engine/escolha-suas-fotos/views/newgallery.html",
+		"/E/Dev/google app engine/escolha-suas-fotos/newgallery.html",
+		"/E/Dev/google app engine/escolha-suas-fotos/gallery.html",
+		"/E/Dev/google app engine/escolha-suas-fotos/views/gallery.html",
+		"/E/Dev/google app engine/escolha-suas-fotos/main.html",
+		"/E/Dev/google app engine/escolha-suas-fotos/newuser.html",
+		"/E/Dev/google app engine/escolha-suas-fotos/views/home.html",
+		"/E/Dev/google app engine/escolha-suas-fotos/signup.html",
+		"/E/Dev/google app engine/escolha-suas-fotos/views/signup.html",
+		"/E/Dev/google app engine/samples/shell/app.yaml",
 		"/E/Dev/google app engine/samples/shell/app.yaml.shell-27",
 		"/E/Dev/google app engine/samples/shell/app.yaml.shell",
 		"/E/Dev/google app engine/samples/shell/app.yaml.shell-hrd",
 		"/E/Dev/google app engine/samples/calendarer/app.yaml",
-		"/E/Dev/google app engine/escolha-suas-fotos/verificationhandler.py",
-		"/E/Dev/google app engine/escolha-suas-fotos/basehandler.py",
-		"/E/Dev/google app engine/escolha-suas-fotos/newuser.py",
-		"/E/Dev/google app engine/escolha-suas-fotos/newgallery.html",
-		"/E/Dev/google app engine/escolha-suas-fotos/app.yaml",
-		"/E/Dev/google app engine/escolha-suas-fotos/signup.html",
-		"/E/Dev/google app engine/escolha-suas-fotos/entities.py",
-		"/E/Dev/google app engine/escolha-suas-fotos/main.py",
-		"/E/Dev/google app engine/escolha-suas-fotos/newgallery.py",
-		"/E/Dev/google app engine/escolha-suas-fotos/message.html",
 		"/E/Dev/google app engine/escolha-suas-fotos-fix-01.py",
-		"/E/Dev/google app engine/escolha-suas-fotos/gallery.py",
-		"/E/Dev/google app engine/escolha-suas-fotos/gallery.html",
-		"/E/Dev/google app engine/escolha-suas-fotos/message.py",
 		"/E/Dev/google app engine/gdg/webmarket/main.py",
 		"/E/Dev/google app engine/escolha-suas-fotos/escolha-suas-fotos.sublime-project",
-		"/C/Users/Erick/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/Erick/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/E/Dev/google app engine/escolha-suas-fotos/README.md",
 		"/E/Dev/google app engine/escolha-suas-fotos/css/bootstrap-theme.css",
@@ -195,7 +321,6 @@
 		"/E/Dev/google app engine/escolha-suas-fotos/js/bootstrap.min.js",
 		"/E/Dev/google app engine/escolha-suas-fotos/js/jquery-2.1.0.min.js",
 		"/C/Users/Erick/AppData/Roaming/Sublime Text 3/Packages/User/hello.sublime-snippet",
-		"/E/Dev/google app engine/escolha-suas-fotos/main.html",
 		"/E/Dev/google app engine/shoutout/main.py",
 		"/E/Dev/Android/Sell My Condo/webapp/samples/sample.html",
 		"/E/Dev/google app engine/escolha-suas-fotos/escolha-suas-fotos/app.yaml",
@@ -205,11 +330,11 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 96.0,
 		"where_history":
 		[
 		]
@@ -219,7 +344,27 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"---",
+			"GDG",
+			"README.md",
+			"..",
+			"styles",
+			"CvMat",
+			"243",
+			"!!!",
+			"Aracajú",
+			"imagedoc",
+			"application",
+			"LoginHandler",
+			"newuser",
+			"messagehan",
+			"SetPasswordHandler",
+			"db.",
+			"display_message",
+			"login",
+			"/login",
+			"login",
+			"user_required",
+			"verification",
 			"db",
 			"().",
 			".all()",
@@ -235,6 +380,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"249",
+			"Aracaju",
 			"/upload"
 		],
 		"reverse": false,
@@ -246,58 +393,59 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": ".gitignore",
+					"file": "_config.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 37,
+						"buffer_size": 876,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								37,
-								37
+								271,
+								271
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "_posts/2014-03-05-coding_dojo.md",
+					"file": "_posts/2014-09-04-coding_dojo.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 519,
+						"buffer_size": 1711,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								519,
-								519
+								1117,
+								1117
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -305,41 +453,13 @@
 					},
 					"stack_index": 1,
 					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1451,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								226,
-								226
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 600.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -379,7 +499,7 @@
 	"project": "project.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -413,7 +533,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 207.0,
+	"side_bar_width": 382.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
