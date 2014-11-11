@@ -1,16 +1,16 @@
 ---
 layout  : post
 person  : Dojo 02/10/2014
-summary : GDG Dojo Mobile 2: Android
+summary : GDG Dojo Mobile 2 - Android
 ---
-
-##Qual foi o problema proposto?
-
-[Caixa Eletrônico](http://dojopuzzles.com/problemas/exibe/caixa-eletronico/)
 
 Neste mês de outubro tivemos mais um coding dojo temático: mobile!  Que tal solucionar um problema em um formato de app Android?
 
 ![Androideando](/images/2014-10-02-coding_dojo_2.jpg "Android")
+
+##Qual foi o problema proposto?
+
+[Caixa Eletrônico](http://dojopuzzles.com/problemas/exibe/caixa-eletronico/)
 
 ##Resumo do problema:
 

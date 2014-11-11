@@ -1,6 +1,6 @@
 ---
 layout  : post
-person  : Nuvem de Cinzas
+person  : Dojo 06/11/2014
 summary : GDG Dojo Novembro/2014
 ---
 
