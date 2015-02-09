@@ -10,6 +10,12 @@ Onde? Na DP Sistemas, Av. Desembargador Maynard, 142, Aracaju - Sergipe.
 
 Quando? Dia 15/01, às 19h!
 
+##Qual foi o problema proposto?
+
+[Mictório](http://dojopuzzles.com/problemas/exibe/distribuicao-de-mictorios/)
+
+[Veja o código!](https://github.com/dojo-se/mictorio)
+
 ## Não sabe o que é um Coding Dojo?
 
 É uma reunião de desenvolvedores para trocar ideias e resolver, juntos, um problema. Não precisa ser expert nem manjar de todos os paranauês, basta ter interesse!
