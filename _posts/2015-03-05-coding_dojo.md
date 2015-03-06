@@ -12,6 +12,10 @@ Nos dias 5 e 6 de março estará rolando a ng-conf 2015, conferência especializ
 
 **Quando?** Dia 05/03, às 19h!
 
+## E cadê o código?
+
+[Tá aqui!](https://github.com/dojo-se/angular-ng-conf-extended)
+
 ## Não sabe o que é um Coding Dojo?
 
 É uma reunião de desenvolvedores para trocar ideias e resolver, juntos, um problema. Não precisa ser expert nem manjar de todos os paranauês, basta ter interesse!
