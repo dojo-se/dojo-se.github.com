@@ -25,4 +25,3 @@ Nos dias 5 e 6 de março estará rolando a ng-conf 2015, conferência especializ
 [Evento no Google+](https://plus.google.com/events/crbu57gbljcq23fpkuc6p3ae6p8)
 
 [Participe da comunidade GDG Aracaju](http://www.gdgaracaju.com.br/p/participe.html)
-

@@ -1,31 +1,23 @@
 ---
 layout  : post
-person  : Dojo 14/03/2013
-summary : The Dojo Strikes Back!
+person  : NodeJS
+summary : GDG Dojo NodeJS Abril/2015
 ---
 
-## Qual foi o problema proposto?
+Mais um mês, mais um dojo!
 
-[Sequência de Cinco](http://dojopuzzles.com/problemas/exibe/sequencia-de-cinco/)
+O [+GDG Aracaju](https://plus.google.com/117712497785310292400) se reúne mensalmente para um [#CodingDojo](https://plus.google.com/explore/CodingDojo) e dessa vez vamos desenvolver com [#NodeJS](https://plus.google.com/explore/NodeJS) ! Imperdível :)
 
-Resumo do problema: dado uma matriz de números inteiros positivos de dimensões n x n, onde n >= 5, encontre o maior produto de uma seqüência de 5 números consecutivos (a seqüência pode estar na vertical, na horizontal ou na diagonal).
+Não sabe o que é um coding dojo? É uma reunião para aprender novos truques de programação, fazer networking e entrar em contato com tecnologias diferentes ou novas práticas.
 
-Linguagem escolhida: Python
+Novatos são bem-vindos: o dojo é o melhor lugar para aprender!﻿
 
-Sensei e Especialista: Rodrigo Amaral
+**Onde?** Na CEC Coworking, Av. Pedro Paes Azevedo, 488, Aracaju - Sergipe.
 
-## Qual a situação da solução no final do dojo?
-
-A aplicação está tratando corretamente apenas as sequências horizontais, em uma linha. O processamento das colunas começou a ser feito através de uma transposição da matriz, mas não foi terminado. O cálculo das diagonais não foi iniciado.
-
-## E cadê o código?
-
-[Tá aqui no GitHub!](https://github.com/dojo-se/sequencia_de_5)
+**Quando?** Dia 02/04, às 19h!
 
 ## Links úteis
 
-[Evento no Google+ (com fotos!)](https://plus.google.com/events/c69kvlmh7dhrlvdnqdhnom4po0g?authkey=CNX47bjI76S4Wg)
+[Evento no Google+](https://plus.google.com/events/cv0dhlu62dr6ufadgl4146cus0c)
 
-[Evento no Facebook](https://www.facebook.com/events/516311948407925/)
-
-[Nossa lista de discussão](https://groups.google.com/forum/?fromgroups#!forum/dojo-se)
+[Participe da comunidade GDG Aracaju](http://plus.google.com/communities/100418157558568471841)
