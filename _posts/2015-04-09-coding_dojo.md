@@ -14,7 +14,7 @@ Novatos são bem-vindos: o dojo é o melhor lugar para aprender!﻿
 
 **Onde?** Na CEC Coworking, Av. Pedro Paes Azevedo, 488, Aracaju - Sergipe.
 
-**Quando?** Dia 02/04, às 19h!
+**Quando?** Dia 09/04, às 19h!
 
 ## Links úteis
 
