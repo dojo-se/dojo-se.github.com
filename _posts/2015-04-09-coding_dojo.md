@@ -18,6 +18,10 @@ Novatos são bem-vindos: o dojo é o melhor lugar para aprender!﻿
 
 ## Links úteis
 
+[Código do dojo](https://github.com/dojo-se/buracos_nas_letras)
+
+[Retrospectiva](https://plus.google.com/events/cv0dhlu62dr6ufadgl4146cus0c/104492136163227749980/6136096738735095410)
+
 [Evento no Google+](https://plus.google.com/events/cv0dhlu62dr6ufadgl4146cus0c)
 
 [Participe da comunidade GDG Aracaju](http://plus.google.com/communities/100418157558568471841)
