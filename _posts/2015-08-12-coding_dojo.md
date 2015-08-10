@@ -12,10 +12,10 @@ Não sabe o que é um coding dojo? É uma reunião para aprender novos truques d
 
 Novatos são bem-vindos: o dojo é o melhor lugar para aprender!﻿
 
-**Onde?** Na CEC Coworking, Av. Pedro Paes Azevedo, 488, Aracaju - Sergipe.
-
-**Quando?** Dia 05/08, às 19h!
+**Quando?** Dia 12/08, às 19h!
 
 ## Links úteis
 
 [Participe da comunidade GDG Aracaju](http://plus.google.com/communities/100418157558568471841)
+
+[Link do evento!](https://goo.gl/h4AE4I)
