@@ -1,7 +1,7 @@
 ---
 layout  : post
-person  : Agosto
-summary : GDG Coding Dojo Setembro/2015
+person  : Setembro
+summary : GDG Coding Dojo Go! Setembro/2015
 ---
 
 Mais um mês, mais um dojo!
