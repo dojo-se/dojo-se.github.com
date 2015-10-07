@@ -1,6 +1,6 @@
 ---
 layout  : post
-person  : Agosto
+person  : Julia!
 summary : GDG Coding Dojo Outubro/2015
 ---
 
@@ -12,7 +12,13 @@ Novatos são bem-vindos: o dojo é o melhor lugar para aprender!﻿
 
 **Quando?** Dia 07/10, às 19h!
 
+**Linguagem:** Julia
+
+**Problema:** Contando linhas de código
+
 ## Links úteis
+
+[Código do dojo](https://github.com/dojo-se/julia-out-2015)
 
 [Participe da comunidade GDG Aracaju](http://plus.google.com/communities/100418157558568471841)
 
