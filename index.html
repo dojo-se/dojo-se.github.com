@@ -3,17 +3,14 @@ layout : default
 heading: 
 ---
 <article>
-  {% for post in site.posts limit: 1 %}
   <figure class="portrait">
-    <img src="/images/{{ post.date | date: "%F" }}-{{ post.title | downcase }}.jpg" width="650px">
+    <center><img src="/images/dojo-se.jpg"></center>
     <figcaption>
       <hgroup>
-        <h1>{{ post.person  }}</h1>
-        <h2>{{ post.summary }}</h2>
+        <h1>Tem Dojo todo mês!</h1>
+        <h2>Nas primeiras quartas ou quintas de cada mês, nós nos reunimos para treinar no coding dojo. Venha você também!</h2>
       </hgroup>
-      <p class="datetime">Publicado em <time datetime="{{ post.date | date: "%F" }}">{{ post.date | date_to_long_string }}</time></p>
     </figcaption>
-  </figure>
-  {{ post.content }}
-  {% endfor %}
+  </figure>  
+  <p><a href="http://www.meetup.com/pt-BR/GDG-Aracaju/">Não perca nenhuma reunião: acompanhe-nos no Meetup do GDG Aracaju</a>.</p>
 </article>

@@ -4,8 +4,8 @@ heading	  : Dojos
 permalink : /dojos/index.html
 ---
 <h2>Dojos</h2>
-<p><h3><a href='/agenda/'>Veja a agenda com os próximos dojos</a>.</h3></p>
-<p>Existem {{ site.posts.size }} dojos arquivados.</p>
+<p><h3><a href='http://www.meetup.com/pt-BR/GDG-Aracaju/'>Veja a agenda com os próximos dojos</a>.</h3></p>
+<p>Existem {{ site.posts.size }} dojos arquivados. Nem todos eles estão listados aqui, mas com certeza estão no GitHub :)</p>
 <ul>{% for post in site.posts %}
   <li><h3><a href="{{ post.url }}">{{ post.date | date: "%Y%m%d	" }}</a> <small>({{ post.date | date: "%b %d"}})</small></h3></li>{% endfor %}
 </ul>
